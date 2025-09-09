@@ -2,7 +2,7 @@
 .even-numbers-special  {
 
 background-color: #c45458;
-font-family: Verdana, DejaVu sans, sans-serif ;
+font-family: Verdana, "DejaVu sans", sans-serif ;
 
 
 }
@@ -17,5 +17,13 @@ font-size: 24px;
 
 color: #4e42f5;
 font-size: 36px;
+
+}
+
+#green {
+
+background-color: #78e075;
+font-size: 24px;
+font-weight: bold;
 
 }
