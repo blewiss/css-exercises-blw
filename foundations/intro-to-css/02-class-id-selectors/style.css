@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+.even-numbers,
+.even-numbers-special  {
+
+background-color: #c45458;
+font-family: Verdana, DejaVu sans, sans-serif ;
+
+
+}
+
+.even-numbers-special {
+
+font-size: 24px;
+
+}
+
+#blue {
+
+color: #4e42f5;
+font-size: 36px;
+
+}
